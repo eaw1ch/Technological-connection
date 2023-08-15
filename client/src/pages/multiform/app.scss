@@ -1,0 +1,19 @@
+svg {
+  &:hover {
+    cursor: pointer;
+  }
+}
+
+.step-count {
+  display: flex;
+  flex-direction: row;
+}
+
+.center-group {
+  align-items: center;
+}
+
+.empty {
+  background-color: white;
+  border: none;
+}
